@@ -61,7 +61,7 @@ const Story = () => {
               <div className="story-img-content">
                 <img 
                   ref={frameRef}
-                  src="/img/entrance.webp"
+                  src="img/entrance.webp"
                   onMouseLeave={handleMouseLeave}
                   onMouseUp={handleMouseLeave}
                   onMouseEnter={handleMouseLeave}
